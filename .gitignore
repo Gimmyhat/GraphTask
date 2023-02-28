@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .idea/
+
+start_neo4j.bat
